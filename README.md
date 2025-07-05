@@ -13,13 +13,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20c0051eeb5965f0633489df7.gif" />
 
-<p align="left">
-  🔭 I’m a passionate <strong>Full Stack Web Developer</strong> who loves turning ideas into real-world applications.<br>
-  With a strong foundation in <strong>HTML5, CSS, Tailwind CSS, JavaScript, React, Node.js, and Firebase</strong>,<br>
-  I bring both creativity and code to the table.<br>
-  Whether it's crafting beautiful frontends or building robust backends,<br>
-  I'm always up for a challenge and ready to learn the next big thing!
+<p align="center" style="font-size:18px; color:#F0F0F0;">
+  🔭 <strong style="color:#FFD700;">I'm a Full Stack Web Developer</strong> who loves turning ideas into real-world applications. <br><br>
+  With a strong foundation in 
+  <span style="color:#00FFFF;"><strong>HTML5</strong></span>, 
+  <span style="color:#00BFFF;"><strong>CSS</strong></span>, 
+  <span style="color:#1E90FF;"><strong>Tailwind CSS</strong></span>, 
+  <span style="color:#FF8C00;"><strong>JavaScript</strong></span>, 
+  <span style="color:#61DBFB;"><strong>React</strong></span>, 
+  <span style="color:#3C873A;"><strong>Node.js</strong></span>, and 
+  <span style="color:#FFA500;"><strong>Firebase</strong></span>,<br><br>
+  I bring both <strong style="color:#ADFF2F;">creativity</strong> and <strong style="color:#FF69B4;">code</strong> to the table.<br><br>
+  Whether it's building stunning frontends or powerful backends, <br>
+  <strong style="color:#7CFC00;">I'm always ready for the next big challenge!</strong>
 </p>
+
 
 
 
