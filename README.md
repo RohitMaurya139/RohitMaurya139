@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohit Maurya</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Passionate about Building Beautiful UIs</h3>
+<h3 align="center">🔭 I’m a passionate **Full Stack Web Developer** who loves turning ideas into real-world applications. With a strong foundation in JavaScript, React, Node.js, and Firebase, I bring both creativity and code to the table. Whether it's crafting beautiful frontends or building robust backends, I'm always up for a challenge and ready to learn the next big thing!
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1b4a2c1899c7176e9f3e99e4a.gif" />
 
