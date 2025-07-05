@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://github.com/RohitMaurya139/RohitMaurya139/blob/main/A_portfolio_personal_webpage_for_Rohit_Maurya,_Ful.png?raw=true](https://github.com/RohitMaurya139/RohitMaurya139/blob/main/github_banner.png)" alt="Rohit Maurya Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Rohit Maurya</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Passionate about Building Beautiful UIs</h3>
 
