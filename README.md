@@ -49,9 +49,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight" alt="Rohit's GitHub stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
  
+---
+---
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight&cache_buster=1
+
 ---
 
 ### 📫 Connect With Me
