@@ -5,8 +5,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Maurya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+Enthusiast;Building+Projects+%F0%9F%9A%80;Learning+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=FULL+STACK+WEB+DEVELOPER;REACT+JS+%7C+JAVASCRIPT+%7C+REDUX;NODE+JS+%7C+EXPRESS+JS+%7C+MONGODB;REACT+NATIVE+%7C+FIREBASE;BUILDING+PROJECTS+%F0%9F%9A%80;LEARNING+EVERY+DAY+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+
 
 ---
 
