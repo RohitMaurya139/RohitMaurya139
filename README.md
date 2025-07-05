@@ -13,13 +13,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20c0051eeb5965f0633489df7.gif" />
 
+<h3 align="center">
+🔭 I’m a passionate <b>Full Stack Web Developer</b> who loves turning ideas into real-world applications. With a strong foundation in HTML5, CSS, Tailwind CSS, JavaScript, React, Node.js, and Firebase, I bring both creativity and code to the table. Whether it's crafting beautiful frontends or building robust backends, I'm always up for a challenge and ready to learn the next big thing!
+</h3>
+
+---
+
+
 ### 👨‍💻 About Me
 
-- 💼 Full Stack Developer focused on React & Node.js  
-- 🌱 Learning deeper backend + Firebase  
-- 💡 Love side projects and hackathons  
-- 🚀 Currently exploring Android development with Kotlin  
-- 🤝 Let’s connect and collaborate!
+- 💼 Currently working as a Full Stack Developer  
+- 🌱 Exploring deeper into Node.js and backend databases  
+- 💡 Love solving problems and building side projects  
+- 🧠 Learning Full Stack Web Development  
+- 🤝 Open to collaboration and building impactful projects  
 
 ---
 
