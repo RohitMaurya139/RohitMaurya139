@@ -14,10 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20c0051eeb5965f0633489df7.gif" />
 
 <p align="center">
-  🔭 I’m a passionate <strong>Full Stack Web Developer</strong> who loves turning ideas into real-world applications.
- With a strong foundation in <strong>HTML5, CSS, Tailwind CSS, JavaScript, React, Node.js, and Firebase</strong>,
-  I bring both creativity and code to the table. Whether it's crafting beautiful frontends or building robust backends,
-  I'm always up for a challenge and ready to learn the next big thing!
+  🔭 I’m a passionate <strong>Full Stack Web Developer</strong> who loves turning ideas into real-world applications. With a strong foundation in <strong>HTML5, CSS, Tailwind CSS, JavaScript, React, Node.js, and Firebase</strong>, I bring both creativity and code to the table. Whether it's crafting beautiful frontends or building robust backends,I'm always up for a challenge and ready to learn the next big thing!
 </p>
 
 
