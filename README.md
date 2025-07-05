@@ -86,12 +86,15 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -99,8 +102,9 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMaurya139&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RohitMaurya139&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
