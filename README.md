@@ -13,10 +13,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20c0051eeb5965f0633489df7.gif" />
 
-<p align="center" style="font-size:18px; color:#F0F0F0;">
+<p align="left" style="font-size:18px; color:#F0F0F0;">
   🔭 <strong style="color:#FFD700;">I'm a Full Stack Web Developer</strong> who loves turning ideas into real-world applications. <br><br>
   With a strong foundation in 
-  <span style="color:#00FFFF;"><strong>HTML5</strong></span>, 
+  <span style="color:red;"><strong>HTML5</strong></span>, 
   <span style="color:#00BFFF;"><strong>CSS</strong></span>, 
   <span style="color:#1E90FF;"><strong>Tailwind CSS</strong></span>, 
   <span style="color:#FF8C00;"><strong>JavaScript</strong></span>, 
