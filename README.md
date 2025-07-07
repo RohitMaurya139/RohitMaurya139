@@ -79,7 +79,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitMaurya139&theme=onedark&column=6&margin-w=5&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitMaurya139&theme=onedark&column=6&margin-w=5&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
