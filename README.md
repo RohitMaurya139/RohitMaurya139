@@ -72,13 +72,26 @@ JavaScript (ES6+) | Java | Python
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight&hide_border=true)
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitMaurya139&theme=tokyonight&hide_border=true)
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=RohitMaurya139&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 
 </div>
+
 
 ---
 
@@ -121,17 +134,21 @@ JavaScript (ES6+) | Java | Python
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rohitmaurya&theme=tokyonight&no-frame=true&row=1)
-
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=RohitMaurya139&theme=tokyonight&no-frame=true&row=1&margin-w=15"
+  />
 </div>
 
+
 ---
-### 📊 Recent GitHub Activity
+## 📊 Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMaurya139&theme=github-compact&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMaurya139&theme=github-compact&hide_border=true"
+  />
 </p>
+
 
 ## 📫 Let's Connect
 
