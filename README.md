@@ -72,17 +72,7 @@ JavaScript (ES6+) | Java | Python
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
 
   <!-- Streak Stats -->
   <img 
@@ -134,9 +124,10 @@ JavaScript (ES6+) | Java | Python
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=RohitMaurya139&theme=tokyonight&no-frame=true&row=1&margin-w=15"
-  />
+<img src="https://github-profile-trophy.zeabur.app/?username=RohitMaurya139&theme=tokyonight&no-frame=true&row=1" />
+
+
+
 </div>
 
 
