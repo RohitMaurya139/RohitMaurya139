@@ -89,8 +89,8 @@ JavaScript (ES6+) | Java | Python
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [QuickCart](https://github.com/RohitMaurya139/QuickCart) | Full Stack E-commerce website:QuickCart is a fast and secure e-commerce platform that connects buyers and sellers seamlessly. It offers easy product management, secure payments, and real-time order tracking — providing a smooth shopping experience and helping businesses grow online | Next.js, Clerk, MongoDB, Inngest |
-| [Ask-ai](https://github.com/RohitMaurya139/askai) | A full-stack MERN web application that allows users to ask questions and receive AI-generated answers using the Groq API for ultra-fast Llama 3 inference. | React.js, Tailwind CSS, Node.js, Express.js, MongoDB |
+| [KeyFrame](https://github.com/RohitMaurya139/keyframe) | KEYFRAME — Multi-Modal AI Video Studio One line: Turn a prompt, a reference video, or a website URL into an editable production script, then render an art-directed, voiced, captioned MP4. |
+| [Mailflow](https://github.com/RohitMaurya139/Mailflow) | MailFlow is an AI-powered email automation platform that helps individuals and teams manage their inbox more efficiently. It automatically classifies emails, prioritizes important messages, generates smart reply drafts, and automates repetitive email workflows |
 | [Netwise](https://github.com/RohitMaurya139/Netwise-webApp) | Netwise is a full-stack social networking application using the MERN stack, implementing secure authentication, session handling, MongoDB integration, and real-time features with Socket.io | React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB |
 | [QuickChat](https://github.com/RohitMaurya139/QuickChat) | QuickChat is a Real-Time Chat Application •Implemented real-time messaging and online presence detection using Socket.io, enabling users to chat instantly with active users | React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB |
 
