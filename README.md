@@ -224,17 +224,9 @@ Real-time messaging platform powered by Socket.io with online presence detection
 
 > Configure lowlighter/metrics GitHub Action and generate:
 
-```text
-github-metrics.svg
-```
-
-Then uncomment:
-
-<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/RohitMaurya139/RohitMaurya139/main/github-metrics.svg"/>
 </p>
--->
 
 ---
 
