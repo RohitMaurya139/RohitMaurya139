@@ -1,16 +1,22 @@
-# Hi 👋, I'm Rohit Maurya
+<!--
+  Rohit Maurya — GitHub Profile README
+  NOTE: GitHub sanitizes markdown, so CSS/JS animations don't run here.
+  The "animation" below comes from dynamic SVG services (typing SVG, wave header,
+  animated stats, contribution snake). They render as live/animated images on GitHub.
+-->
 
+<!-- ===== ANIMATED WAVE HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=Rohit%20Maurya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Rohit Maurya" />
+
+<!-- ===== ANIMATED TYPING TAGLINE ===== -->
 <div align="center">
-<p align="center">
-  <img src="https://github.com/RohitMaurya139/RohitMaurya139/blob/main/github_banner.png?raw=true" alt="Rohit Maurya Banner" width="900px" height="600px" />
-</p>
 
-### 🔭 Full Stack Web Developer | Turning Ideas Into Reality
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+stunning+frontends+%26+powerful+backends;MERN+Stack+Specialist;Turning+ideas+into+reality)](https://git.io/typing-svg)
 
-*Building stunning frontends and powerful backends with modern technologies*
-
-[![GitHub followers](https://img.shields.io/github/followers/rohitmaurya?style=social)](https://github.com/RohitMaurya139)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rohit139maurya/)
+[![GitHub followers](https://img.shields.io/github/followers/RohitMaurya139?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26&logoColor=white)](https://github.com/RohitMaurya139?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-bb9af7?style=for-the-badge&logo=linkedin&labelColor=1a1b26&logoColor=white)](https://www.linkedin.com/in/rohit139maurya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7dcfff?style=for-the-badge&logo=firefox&labelColor=1a1b26&logoColor=white)](https://rm-portfolio-zeta.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=RohitMaurya139&style=for-the-badge&color=9ece6a&labelColor=1a1b26)
 
 </div>
 
@@ -18,159 +24,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer dedicated to crafting exceptional web applications. With expertise in both frontend and backend technologies, I combine creativity with technical excellence to deliver solutions that make an impact.
+> A passionate Full Stack Developer dedicated to crafting exceptional web applications. I combine creativity with technical excellence to deliver solutions that make an impact.
 
-- 💼 **Currently working** as a Full Stack Developer, building scalable applications
-- 🌱 **Exploring** advanced Node.js patterns and database optimization
-- 💡 **Love** solving problems and creating elegant solutions
-- 🧠 **Always learning** and staying updated with latest technologies
-- 🤝 **Open to** collaboration and impactful projects
-
----
-
-## ⚙️ Tech Stack
-
-### 🖥️ Backend Technologies
-```
-Node.js | Express.js | MongoDB | RESTful APIs | JWT Authentication | WebSockets
-```
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 💻 Frontend Technologies
-```
-Next.js | React.js | Redux | TypeScript | HTML5 | CSS3 | Tailwind CSS | Material UI
-```
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧠 Programming Languages
-```
-JavaScript (ES6+) | Java | Python
-```
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=RohitMaurya139&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
-</div>
-
-
----
-
-## 🔥 Recent Activity
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [KeyFrame](https://github.com/RohitMaurya139/keyframe) | KEYFRAME — Multi-Modal AI Video Studio One line: Turn a prompt, a reference video, or a website URL into an editable production script, then render an art-directed, voiced, captioned MP4.| React, Tailwind CSS, Node.js, Express.js, MongoDB , claude, Hyperframe, pixabay |
-| [Mailflow](https://github.com/RohitMaurya139/Mailflow) | MailFlow is an AI-powered email automation platform that helps individuals and teams manage their inbox more efficiently. It automatically classifies emails, prioritizes important messages, generates smart reply drafts, and automates repetitive email workflows | React, Tailwind CSS, Node.js, Express.js, MongoDB, Reddis, Bull MQ,  Google Auth|
-| [Netwise](https://github.com/RohitMaurya139/Netwise-webApp) | Netwise is a full-stack social networking application using the MERN stack, implementing secure authentication, session handling, MongoDB integration, and real-time features with Socket.io | React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB |
-| [QuickChat](https://github.com/RohitMaurya139/QuickChat) | QuickChat is a Real-Time Chat Application •Implemented real-time messaging and online presence detection using Socket.io, enabling users to chat instantly with active users | React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB |
-
----
-
-## 🎯 Goals & Milestones
-
-- ✅ Master Full Stack Web Development
-- 🎯 Build 20+ Projects
-- 🎯 Contribute to Open Source
-- 🎯 Learn Advanced System Design Patterns
-- 🎯 Create Impactful Applications
-
----
-
-## 📈 Key Highlights
-
-<div align="center">
-
-| Metric | Count |
-|--------|-------|
-| 📁 Projects Completed | 20+ |
-| 💾 GitHub Commits | 350+ |
-| 🎖️ GitHub Contributions | 450+ |
-| 📅 Years of Experience | 1+ |
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.zeabur.app/?username=RohitMaurya139&theme=tokyonight&no-frame=true&row=1" />
-
-
-
-</div>
-
-
----
-## 📊 Recent GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMaurya139&theme=github-compact&hide_border=true"
-  />
-</p>
-
-
-## 📫 Let's Connect
-
-I'm always excited to collaborate on new projects and discuss web development. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit139maurya/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitMaurya139)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit139maurya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://rm-portfolio-zeta.vercel.app/)
-
-</div>
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 I love building side projects and exploring new technologies
-- 📚 Currently reading about microservices and cloud architecture
-- 🚀 Passionate about clean code and best practices
-- 💭 Always looking for interesting problems to solve
-
----
-
-<div align="center">
-
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Crafted with ❤️ and code**
-
-Last updated: 2025
-
-</div>
+```javascript
+const rohit = {
+  role: "Full Stack Web Developer",
+  currently: "Building scalable applications",
+  learning: ["Advanced Node.js patterns", "Database optimization", "System design"],
+  loves: "Solving problems & crafting elegant solutions",
+  openTo: "Collaboration on impactful projects",
+};
