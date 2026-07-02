@@ -11,7 +11,7 @@
 <h1 align="center">👋 Hi, I'm Rohit Maurya</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=🚀+Building+AI+Products;⚡+Full+Stack+MERN+Developer;🎬+Creator+of+KeyFrame+AI+Studio;📧+Building+MailFlow+Automation;🤖+Exploring+AI+Agents+%26+Automation;🔥+Always+Learning+New+Technologies"/>
+<img src="./github_banner.png" width="100%">
 </p>
 
 <p align="center">
