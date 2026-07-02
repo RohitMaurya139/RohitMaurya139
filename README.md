@@ -38,56 +38,26 @@
 
 ---
 
-# 🚀 About Me
-
-<div align="center">
-
-### Building products that solve real-world problems through technology
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td>
-
-🌟 Full Stack Web Developer
-
-🚀 AI Product Builder
-
-💻 MERN Stack Specialist
-
-📚 Lifelong Learner
-
-🤖 Exploring AI Agents
-
-⚡ SaaS Enthusiast
-
-</td>
-
-<td>
-
-🎬 Building KeyFrame AI
-
-📧 Scaling MailFlow
-
-🌐 Creating Modern Web Apps
-
-☁️ Learning Cloud Architecture
-
-🏗️ Studying System Design
-
-🎯 Focused on Continuous Growth
-
-</td>
-</tr>
-</table>
-
-<br>
+# 👨‍💻 About Me
 
 <p align="center">
-I enjoy transforming ideas into production-ready applications by combining clean architecture, modern technologies, and exceptional user experiences.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Application+Builder;MERN+Stack+Specialist;Building+Scalable+Digital+Products;Open+Source+Enthusiast"/>
+</p>
+
+<p align="center">
+
+🚀 Building AI-powered applications and modern web platforms
+
+💻 Specialized in React, Next.js, Node.js, Express, and MongoDB
+
+🎬 Creator of KeyFrame AI Video Studio
+
+📧 Developing intelligent automation solutions with MailFlow
+
+📚 Currently learning System Design, Cloud Architecture, and AI Agents
+
+🤝 Open to collaboration, innovation, and open-source contributions
+
 </p>
 
 ---
