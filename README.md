@@ -133,7 +133,7 @@ Transform prompts, URLs, images, and assets into professional AI-generated video
 
 <p align="center">
 <a href="https://github.com/RohitMaurya139/keyframe">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitMaurya139&repo=keyframe&theme=tokyonight"/>
+<img src="./photo_6210914553227317559_w.png" width="100%">
 </a>
 </p>
 
@@ -145,31 +145,32 @@ AI-powered email automation platform for smart inbox management and workflow aut
 
 <p align="center">
 <a href="https://github.com/RohitMaurya139/Mailflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitMaurya139&repo=Mailflow&theme=tokyonight"/>
+<img src="./mailflow.png" width="100%">
 </a>
 </p>
 
 ---
 
-## 🌐 Netwise
+## 🌐 HelpDesk AI
 
-Full-stack social networking platform with real-time communication and secure authentication.
+HelpDesk AI is an dynamic chatbot Integration PlatForm.
 
 <p align="center">
-<a href="https://github.com/RohitMaurya139/Netwise-webApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitMaurya139&repo=Netwise-webApp&theme=tokyonight"/>
+<a href="https://github.com/RohitMaurya139/helpdesk-ai">
+<img src="./helpdesk.png" width="100%">
 </a>
 </p>
 
 ---
 
-## 💬 QuickChat
+## 💬 AI Insight Builder
 
-Real-time messaging platform powered by Socket.io with online presence detection.
+About
+AI Movie Insights Builder is an AI-powered web application that analyzes movies and provides detailed insights, including plot summaries, character analysis, themes, genres, ratings, and key takeaways
 
 <p align="center">
-<a href="https://github.com/RohitMaurya139/QuickChat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitMaurya139&repo=QuickChat&theme=tokyonight"/>
+<a href="https://github.com/RohitMaurya139/ai-movie-insights-builder">
+<img src="./ai-insight.png" width="100%">
 </a>
 </p>
 
