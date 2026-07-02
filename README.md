@@ -73,8 +73,9 @@
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitMaurya139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya139&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 </p>
 
 <p align="center">
@@ -187,7 +188,7 @@ AI Movie Insights Builder is an AI-powered web application that analyzes movies 
 # 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RohitMaurya139&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitMaurya139&theme=tokyonight" />
 </p>
 
 ---
