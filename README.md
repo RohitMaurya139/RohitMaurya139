@@ -133,7 +133,7 @@ Transform prompts, URLs, images, and assets into professional AI-generated video
 
 <p align="center">
 <a href="https://github.com/RohitMaurya139/keyframe">
-<img src="./photo_6210914553227317559_w.png" width="100%">
+<img src="./photo_6210914553227317559_w.PNG" width="100%">
 </a>
 </p>
 
@@ -145,7 +145,7 @@ AI-powered email automation platform for smart inbox management and workflow aut
 
 <p align="center">
 <a href="https://github.com/RohitMaurya139/Mailflow">
-<img src="./mailflow.png" width="100%">
+<img src="./mailflow.PNG" width="100%">
 </a>
 </p>
 
@@ -157,7 +157,7 @@ HelpDesk AI is an dynamic chatbot Integration PlatForm.
 
 <p align="center">
 <a href="https://github.com/RohitMaurya139/helpdesk-ai">
-<img src="./helpdesk.png" width="100%">
+<img src="./helpdesk.PNG" width="100%">
 </a>
 </p>
 
@@ -170,7 +170,7 @@ AI Movie Insights Builder is an AI-powered web application that analyzes movies 
 
 <p align="center">
 <a href="https://github.com/RohitMaurya139/ai-movie-insights-builder">
-<img src="./ai-insight.png" width="100%">
+<img src="./ai-insight.PNG" width="100%">
 </a>
 </p>
 
