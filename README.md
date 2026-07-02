@@ -40,46 +40,55 @@
 
 # 🚀 About Me
 
-```javascript
-class RohitMaurya {
-  constructor() {
-    this.role = "Full Stack Developer";
-    this.specialization = "AI-Powered Applications";
-    this.location = "India";
+<div align="center">
 
-    this.techStack = [
-      "React",
-      "Next.js",
-      "Node.js",
-      "MongoDB",
-      "Express",
-      "TypeScript",
-      "Docker"
-    ];
-  }
+### Building products that solve real-world problems through technology
 
-  currentlyBuilding() {
-    return [
-      "KeyFrame AI Video Studio",
-      "MailFlow Automation",
-      "AI-Powered SaaS Products"
-    ];
-  }
+</div>
 
-  learning() {
-    return [
-      "System Design",
-      "AI Agents",
-      "Distributed Systems",
-      "Cloud Architecture"
-    ];
-  }
+<br>
 
-  lifeGoal() {
-    return "Build products that impact millions";
-  }
-}
-```
+<table align="center">
+<tr>
+<td>
+
+🌟 Full Stack Web Developer
+
+🚀 AI Product Builder
+
+💻 MERN Stack Specialist
+
+📚 Lifelong Learner
+
+🤖 Exploring AI Agents
+
+⚡ SaaS Enthusiast
+
+</td>
+
+<td>
+
+🎬 Building KeyFrame AI
+
+📧 Scaling MailFlow
+
+🌐 Creating Modern Web Apps
+
+☁️ Learning Cloud Architecture
+
+🏗️ Studying System Design
+
+🎯 Focused on Continuous Growth
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+I enjoy transforming ideas into production-ready applications by combining clean architecture, modern technologies, and exceptional user experiences.
+</p>
 
 ---
 
