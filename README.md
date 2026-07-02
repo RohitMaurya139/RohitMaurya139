@@ -133,7 +133,7 @@ Transform prompts, URLs, images, and assets into professional AI-generated video
 
 <p align="center">
 <a href="https://github.com/RohitMaurya139/keyframe">
-<img src="./photo_6210914553227317559_w.PNG" width="100%">
+<img src="./photo_6210914553227317559_w.jpg" width="100%">
 </a>
 </p>
 
